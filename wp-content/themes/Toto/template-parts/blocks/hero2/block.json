@@ -1,0 +1,14 @@
+{
+  "name": "acf/hero2",
+  "title": "Hero2",
+  "description": "A custom hero2 block.",
+  "style": [ "file:./hero2.css" ],
+  "category": "formatting",
+  "icon": "admin-comments",
+  "keywords": ["hero2", "quote"],
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "hero2.php"
+  },
+  "align": "full"
+}
